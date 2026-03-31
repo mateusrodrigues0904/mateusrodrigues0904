@@ -38,7 +38,9 @@ de dados moderna e plataformas cloud como Azure e Databricks.
 
 ## 📂 Projetos em Destaque
 
-> 🚧 Projetos de dados em construção — em breve aqui!
+### 🚀 [Pipeline ETL — Municípios do IBGE](https://github.com/mateusrodrigues0904/etl-ibge-municipios)
+Pipeline completo que extrai, transforma e carrega dados de 5.571 municípios
+brasileiros via API pública do IBGE. Stack: Python · Pandas · SQLite
 
 ---
 
