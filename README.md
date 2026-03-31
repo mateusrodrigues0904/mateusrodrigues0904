@@ -44,13 +44,6 @@ brasileiros via API pública do IBGE. Stack: Python · Pandas · SQLite
 
 ---
 
-## 📊 GitHub Stats
-
-![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusrodrigues0904&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrodrigues0904&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-jorge-rodrigues-693282218)
