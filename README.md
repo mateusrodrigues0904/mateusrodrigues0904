@@ -42,6 +42,10 @@ de dados moderna e plataformas cloud como Azure e Databricks.
 Pipeline completo que extrai, transforma e carrega dados de 5.571 municípios
 brasileiros via API pública do IBGE. Stack: Python · Pandas · SQLite
 
+### 🏥 [Pipeline de Dados — COVID-19 por Estado](https://github.com/mateusrodrigues0904/pipeline-sus-saude)
+Pipeline ETL com dados históricos de COVID-19 por estado brasileiro,
+armazenados em PostgreSQL na nuvem e visualizados em dashboard Power BI.
+Stack: Python · Pandas · PostgreSQL · Supabase · Power BI
 ---
 
 ## 📫 Contato
