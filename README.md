@@ -47,6 +47,11 @@ Pipeline ETL com dados históricos de COVID-19 por estado brasileiro,
 armazenados em PostgreSQL na nuvem e visualizados em dashboard Power BI.
 Stack: Python · Pandas · PostgreSQL · Supabase · Power BI
 
+### ⚙️ [Pipeline Orquestrado com Airflow — COVID-19](https://github.com/mateusrodrigues0904/pipeline-airflow)
+Pipeline ETL orquestrado com Apache Airflow rodando em Docker,
+com agendamento diário automático e 3 tasks encadeadas.
+Stack: Python · Pandas · Apache Airflow · Docker · PostgreSQL
+
 ---
 
 ## 📫 Contato
